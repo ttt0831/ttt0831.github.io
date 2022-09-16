@@ -1,6 +1,6 @@
 # ttt0831.github.io
 
-1. 정 가운데 배치
+◻ 1. 정 가운데 배치
 
 ```
 display: flex;
@@ -20,7 +20,7 @@ text-align: center; <- 텍스트 가운데 정렬
 
 
 
-2. 메뉴에 hover하면 커지는 효과
+◻ 2. 메뉴에 hover하면 커지는 효과
 
 ```
 .nav ul li:hover {
@@ -35,8 +35,7 @@ text-align: center; <- 텍스트 가운데 정렬
 
 
 
-
-3. 메뉴를 누르면 해당 부분으로 이동
+◻ 3. 메뉴를 누르면 해당 부분으로 이동
 
 ```
 <li><a href="#about_me">About me</a></li>
