@@ -44,5 +44,5 @@ text-align: center; <- 텍스트 가운데 정렬
 
 a태그의 href속성에 해당 부분 id를 입력해주면 된다.
 
-https://ttt0831.github.io/#skill
+💨 https://ttt0831.github.io/#skill
 
