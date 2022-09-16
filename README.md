@@ -2,6 +2,7 @@
 
 1. 정 가운데 배치
 
+```
 display: flex;
 flex-direction: column; (or row)
 justify-content: center; <- 수직 가운데 정렬
@@ -18,10 +19,11 @@ text-align: center; <- 텍스트 가운데 정렬
 
 2. 메뉴에 hover하면 커지는 효과
 
+```
 .nav ul li:hover {
 	transform: scale(1.4);
     transition: transform .3s;
-    
+```    
 내가 누른 메뉴가 무엇인지 알게하고 싶었다.
 그래서 사용자의 마우스 포인터가 요소 위에 올라가 있으면 선택되는 :hover를 사용했고
 현재 선택되고 있는 요소가 무엇인지 시각적으로 알 수 있게 하기 위해 transform 속성을 이용하여 선택한 요소가 1.4배로 커지게했다.
