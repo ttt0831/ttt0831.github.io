@@ -8,6 +8,7 @@ flex-direction: column; (or row)
 justify-content: center; <- 수직 가운데 정렬
 align-items: center; <- 수평 가운데 정렬
 text-align: center; <- 텍스트 가운데 정렬
+```
 
 모든 컨텐츠들이 웹 페이지의 정 가운데에 위치하게 하고싶었다.
 이에 display를 flex로 만들고
@@ -32,6 +33,7 @@ text-align: center; <- 텍스트 가운데 정렬
 
 3. 메뉴를 누르면 해당 부분으로 이동
 
+```
 <li><a href="#about_me">About me</a></li>
-
+```
 a태그의 href속성에 해당 부분 id를 입력해주면 된다.
